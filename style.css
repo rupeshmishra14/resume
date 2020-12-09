@@ -1,0 +1,111 @@
+body {
+  /*margin-left: 10em;
+  margin-right: 10em;*/
+  border: 1px solid black;
+  font-family: Ubuntu, monospace, sans-serif;
+}
+
+ img {
+   border-radius: 50%;
+   width: 100px;
+   border: 2px solid #425061;
+   position: absolute;
+   right: 5%;
+   top: 26px;
+ }
+
+ .top-heading {
+   background-color: #1dbfaf;
+   padding-top: 10px;
+   padding-left: 1em;
+   color: white;
+ }
+
+
+#tag-padding {
+  margin-right: 180px;
+}
+
+#name-padding {
+  margin-right: 180px;
+}
+
+.color-strip {
+  background-color: #29aa94;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+  text-align: center;
+  word-spacing: 2em;
+}
+
+.dark-blue {
+  color: #255958;
+}
+
+.left-content-padding {
+  line-height: 0.4;
+}
+
+mark{
+  background-color: #1dbfaf;
+  border-radius: 15%;
+  padding: 8px;
+  font-size: 13px;
+  color: white;
+  line-height: 3;
+}
+
+.right-content-padding {
+  line-height: 0.4;
+}
+
+#interests-border {
+  background-color: white;
+  border-radius: 15%;
+  padding: 8px;
+  border: 1px solid grey;
+  color: black;
+  font-size: 14px;
+  line-height: 3;
+}
+
+.right-content {
+  padding-bottom: 18em;
+  padding-left: 2em;
+}
+
+.left-content {
+  padding-bottom: 10em;
+  padding-left: 1em;
+  line-height: 0.9;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  line-height: 0.8;
+}
+
+a {
+  color: white;
+}
+
+.text-size {
+  font-style: italic;
+  font-size: 12px;
+  line-height: 0.8;
+  color: grey;
+}
+
+.blue-text {
+  font-size: 12px;
+  font-style: italic;
+  color: #1dbfaf;
+}
+
+.line-spacing {
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+}
